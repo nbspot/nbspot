@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Solutions for You
 
-You can use the [editor on GitHub](https://github.com/nbspot/nbspot/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We understand how hard it is in the modern day to exist.  That's why we, your favorite megacorporation, are here to help make your life easier.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Testimonials
 
-### Markdown
+- "This really improved my life!" - Martha Stewart
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- "I can't believe I haven't found this before.  It's amazing what this company can do for you." - Jeb!
+
+- "Why aren't you purchasing their goods right now?  Do it!  Fuck!" - Grey
 
 ```markdown
 Syntax highlighted code block
